@@ -1,0 +1,6 @@
+myenv_git/
+*.pkl
+*.h5
+*.pt
+*.keras
+*.txt
